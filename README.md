@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi ,I'm Vyshnavi 👋
 
-<!--
-**vyshnavi-153/vyshnavi-153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+/**vyshnavi-153/vyshnavi-153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  #Hi , I'm Vyshnavi👋
+  I'm a first year engineering student passionate about programming and building cool java projects.
+  🌱 I’m currently learning :java,oops,Git,GitHub
+  Latest Project:[Student Report Card](https://github.com/vyshnavi-153/Student-Report-Card)
+
+  Let's connect and grow together!
